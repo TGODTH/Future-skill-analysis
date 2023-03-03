@@ -31,3 +31,8 @@ This project showcases my skills in programming, teaching, coaching, and data an
 * Understand the structure of the website and its interaction with the network to extract data using HTTP GET method.
 
 Overall, this project highlights my ability to collaborate, learn new skills, and apply them to real-world problems.
+
+## Collaborators
+
+* [Topping](https://github.com/Topping4) - original author of the project.
+<!--  * [TGOD](https://github.com/TGODTH) - contributed to the web scraping script and provided programming guidance and coaching throughout the project with the permission and approval of Topping. -->

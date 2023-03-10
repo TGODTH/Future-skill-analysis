@@ -14,7 +14,7 @@ I shared my knowledge of programming with my friend and guided him through the p
 After scraping the data, we used Google Looker Studio to create a dashboard and analyze the data. We identified trends and patterns in the courses offered and used this information to make recommendations for future course development.
 
 ### Web Structure & Network Basics
-To extract data from the website, we needed to understand its structure and how it interacts with the network. I showed my friend how to use F12 to find the HTTP GET method that gets data from the backend of the website.
+To extract data from the website, we needed to understand its structure and how it interacts with the network. I showed my friend how to use browser's developer tools to find the HTTP GET method that gets data from the backend of the website.
 
 ## Project Details
 * The web scraping script is written in Python and uses the requests and csv libraries to extract data from an online course website.

@@ -35,4 +35,4 @@ Overall, this project highlights my ability to collaborate, learn new skills, an
 ## Collaborators
 
 * [Topping](https://github.com/Topping4) - original author of the project.
-<!--  * [TGOD](https://github.com/TGODTH) - contributed to the web scraping script and provided programming guidance and coaching throughout the project with the permission and approval of Topping. -->
+* [TGOD](https://github.com/TGODTH) - contributed to the web scraping script and provided programming guidance and coaching throughout the project with the permission and approval of Topping. 
